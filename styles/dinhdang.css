@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: auto;}
+.tong{
+	width: 960px;
+	height: 110px;
+	border: solid 1px white;
+}
+.tren{
+	background: url("../images/1.jpg");
+	background-size: 960px 90px;
+	width: 960px;
+	height: 90px;
+}
+.trai nav a{
+	float: left;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 11px;
+	padding-left: 18px;
+	padding-top: 10px;
+	color: black;
+}
+.phai nav a{
+	float: right;
+	text-decoration: none;
+	color: grey;
+	font-family: arial;
+	font-size: 11px;
+	padding-top: 10px;
+	padding-right: 10px;
+}
